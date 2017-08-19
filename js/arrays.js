@@ -54,4 +54,4 @@ console.log(zbiorImion);
 zbiorImion.splice(2, 3, "Zenek", "Grzegorz", "Ania"); /*usuwa elementy na stałe włącznie z 2/ jeden parametr usuwa wszystkp od niego do konca/ druga liczab okresla ilosc elementow do usuniecia/ funkcja dodaje rowniez nowe elementy*/
 console.log(zbiorImion);
 
-console.log(zbiorImion.toString());
+console.log(zbiorImion.toString()); /*zaminia tablice na zbior znakow*/
